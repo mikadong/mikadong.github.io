@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>搜索 on mika dong的个人博客</title>
+    <link>http://mikadong.github.io/tags/%E6%90%9C%E7%B4%A2/</link>
+    <description>Recent content in 搜索 on mika dong的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikadong.github.io/tags/%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>搜索工具——总结</title>
+      <link>http://mikadong.github.io/post/search-mehtod/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikadong.github.io/post/search-mehtod/</guid>
+      <description>#Google: https://www.ecosia.org （无广告，搜索体验良好） http://googlebridge.com https://kfd.me https://xs.glgoo.top https://ipv6.google-api.ac.cn 谷歌日本的镜像网站 http://ac.scmor.com（无广告，不稳定） http://scholar.hedasudi.com（无广告，不稳定） https://guge.schove.com（无广告，不稳定=。） http://google.suanfazu.com/
+#搜书： ##编程书 搬书匠http://www.banshujiang.cn/ 良许Cxd12_21http://www.liangxu.cc 英文书 https://coderprog.com/ 英文书 http://www.foxebook.net 英文书 https://avxhm.se/ebooks/programming_development 英文书 https://salttiger.com/archives/
+#全面书 书伴kindlehttps://bookfere.com/ 鸠摩https://www.jiumodiary.com/ 小书屋http://mebook.cc 其他 https://sobooks.cc/ http://booksk.com/ http://cn.epubee.com/books/
+##优质书单 http://www.bookdao.com/Subject.aspx</description>
+    </item>
+    
+  </channel>
+</rss>

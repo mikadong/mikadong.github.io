@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mika dong的个人博客</title>
+    <link>http://mikadong.github.io/post/</link>
+    <description>Recent content in Posts on mika dong的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, Your Name Here; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikadong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>搜索工具——总结</title>
+      <link>http://mikadong.github.io/post/search-mehtod/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikadong.github.io/post/search-mehtod/</guid>
+      <description>#Google: https://www.ecosia.org （无广告，搜索体验良好） http://googlebridge.com https://kfd.me https://xs.glgoo.top https://ipv6.google-api.ac.cn 谷歌日本的镜像网站 http://ac.scmor.com（无广告，不稳定） http://scholar.hedasudi.com（无广告，不稳定） https://guge.schove.com（无广告，不稳定=。） http://google.suanfazu.com/
+#搜书： ##编程书 搬书匠http://www.banshujiang.cn/ 良许Cxd12_21http://www.liangxu.cc 英文书 https://coderprog.com/ 英文书 http://www.foxebook.net 英文书 https://avxhm.se/ebooks/programming_development 英文书 https://salttiger.com/archives/
+#全面书 书伴kindlehttps://bookfere.com/ 鸠摩https://www.jiumodiary.com/ 小书屋http://mebook.cc 其他 https://sobooks.cc/ http://booksk.com/ http://cn.epubee.com/books/
+##优质书单 http://www.bookdao.com/Subject.aspx</description>
+    </item>
+    
+    <item>
+      <title>Accumsan Ultricies Turpis?</title>
+      <link>http://mikadong.github.io/post/accumsan-ultricies-turpis/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikadong.github.io/post/accumsan-ultricies-turpis/</guid>
+      <description>Image via CrunchBase   Volutpat vel consequat eget. Et egestas sit amet velit.
+ Duis turpis libero, pretium et mauris eu, volutpat mollis tellus. Donec malesuada vel augue sit amet imperdiet. Vestibulum maximus et leo non laoreet.
+ Maecenas erat lacus, volutpat vel consequat eget, egestas sit amet velit. Mauris a velit imperdiet, dictum leo sit amet, tempor tellus. Vestibulum a congue tortor. Quisque luctus tincidunt neque ornare cursus.</description>
+    </item>
+    
+    <item>
+      <title>Proin Sodales et Dolor sed Congue</title>
+      <link>http://mikadong.github.io/post/proin-sodales-et-dolor-sed-congue/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikadong.github.io/post/proin-sodales-et-dolor-sed-congue/</guid>
+      <description>Sed vehicula purus nec dolor sagittis rutrum. Vestibulum maximus purus nec nunc blandit pulvinar. Donec odio sapien, pretium et finibus non, rhoncus a nisi.
+In nec arcu odio. Nulla quis felis eget nisl luctus porta. Quisque quis nisi vestibulum, euismod mi in, aliquet odio. Duis vel augue pellentesque arcu dignissim bibendum. Phasellus rutrum aliquam eros, nec posuere erat sollicitudin in. Duis fringilla, nunc eget tempus vestibulum, tellus tortor consectetur sem, nec lobortis odio ligula vitae turpis.</description>
+    </item>
+    
+    <item>
+      <title>Vestibulum Tincidunt</title>
+      <link>http://mikadong.github.io/post/vestibulum-tincidunt/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikadong.github.io/post/vestibulum-tincidunt/</guid>
+      <description>Vivamus convallis diam imperdiet neque sodales ultricies.
+Vestibulum tincidunt felis sed metus imperdiet. Eget volutpat felis imperdiet. Integer lobortis tincidunt tempor.
+Phasellus interdum urna tellus. Nullam non mi lorem. Donec rhoncus felis nec enim dictum, et faucibus nisl dignissim. Mauris sed ligula ex. Duis tristique, lacus eget rutrum cursus, lectus leo vestibulum ligula, ut pulvinar magna elit eu ex. Nam malesuada sagittis enim id euismod. Mauris leo massa, tincidunt ac aliquet fringilla, iaculis vel tortor.</description>
+    </item>
+    
+  </channel>
+</rss>
